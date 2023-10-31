@@ -1,4 +1,4 @@
-### Olá, Sou Monique Carvalho, tenho 28 anos e sou do RJ 👋
+### Olá, Sou Monique Carvalho e sou do RJ 👋
 
 - 🎓 Sou estudante do curso de Bacharel em Sistemas de Informação na faculdade Descomplica;
 - ☕ Realizei o Bootcamp da **Oracle** em programação com foco em Backend;
